@@ -1,0 +1,81 @@
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\MainWindow.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\App.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.lref
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\MainWindow.baml
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.g.resources
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Ravid\Dropbox\Public\לימודים\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\MainWindow.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\App.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.lref
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\MainWindow.baml
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.g.resources
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\מנוע חיפוש\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+D:\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe.config
+D:\SearchEngine\SearchEngine\bin\Debug\SearchEngine.exe
+D:\SearchEngine\SearchEngine\bin\Debug\SearchEngine.pdb
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+D:\SearchEngine\SearchEngine\obj\Debug\MainWindow.g.cs
+D:\SearchEngine\SearchEngine\obj\Debug\App.g.cs
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.cache
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.lref
+D:\SearchEngine\SearchEngine\obj\Debug\MainWindow.baml
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine.g.resources
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine.exe
+D:\SearchEngine\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\MainWindow.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\App.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.lref
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\MainWindow.baml
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.g.resources
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\Results.g.cs
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\Results.baml
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ravid\Dropbox\Public\לימודים\סמסטר ה\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\MainWindow.g.cs
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\Results.g.cs
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\App.g.cs
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.cache
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine_MarkupCompile.lref
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\MainWindow.baml
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\Results.baml
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.g.resources
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\ravidbe\Downloads\אחזור מידע\SearchEngine-Part2\SearchEngine\obj\Debug\SearchEngine.pdb
